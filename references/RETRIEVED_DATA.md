@@ -14,4 +14,10 @@ Point cloud: 695000 points per second
 
 
 # 2. NEGS-UGV Dataset - UMA
+- There is no public dataset with tagged data in varied natural settings, so they are force to build it themselves.
+
+- The dataset is public and make sure to cite it in the memory.
+
+- The different modeled scenarios are shown.
+
 
