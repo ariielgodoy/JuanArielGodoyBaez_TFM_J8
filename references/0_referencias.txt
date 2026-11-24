@@ -1,0 +1,11 @@
+https://www.uma.es/robotics-and-mechatronics/info/132852/negs-ugv-dataset
+
+Local navigation (curriculum learing)
+https://www.mdpi.com/1424-8220/23/6/3239
+
+Traversability 
+https://www.mdpi.com/2076-3417/10/3/1140
+
+
+Way-point navigation
+https://www.mdpi.com/2075-1702/11/8/807
